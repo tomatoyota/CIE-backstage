@@ -1,0 +1,13 @@
+.navTab{
+    .v-slide-group__container{
+        background: #F5F5F5;
+    }
+    
+    .v-btn.v-theme--DefaultTheme {
+        background: #E2E2E2;
+    }
+    
+    .v-btn.v-slide-group-item--active.v-tab--selected{
+        background: #fff;
+    }
+}
